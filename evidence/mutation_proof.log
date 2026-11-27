@@ -1,0 +1,3 @@
+MUTATION M1 PASS: pass_rate 96.5 -> 50.0, Markdown 同步变为 50.0%
+MUTATION M2 PASS: p0_failures 0 -> 2, 文案由'本月无 P0 失败'变为'本月 P0 失败数为 2 起'
+MUTATION M3 PASS: low_sample True -> False, DOCX 置灰行数由 1 变为 0
